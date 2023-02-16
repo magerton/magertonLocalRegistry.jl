@@ -4,4 +4,5 @@ repo = "git@github.com:magerton/magertonLocalRegistry.jl.git"
 
 [packages]
 475e00a1-3164-498a-9549-bcaad118f2b9 = { name = "ShaleDrillingRevisedModel", path = "S/ShaleDrillingRevisedModel" }
+9c72e6b0-c31a-4988-9735-5daee9bc0cf3 = { name = "FastLogSumExp", path = "F/FastLogSumExp" }
 a3f5e1f6-3d3b-4aea-83ba-1271dfe41bed = { name = "BLMAuctionComittment", path = "B/BLMAuctionComittment" }

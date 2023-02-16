@@ -1,0 +1,3 @@
+name = "FastLogSumExp"
+uuid = "9c72e6b0-c31a-4988-9735-5daee9bc0cf3"
+repo = "git@github.com:magerton/FastLogSumExp.jl.git"
