@@ -1,0 +1,5 @@
+name = "magertonLocalRegistry.jl"
+uuid = "ab6bbf05-e7a6-40d2-89e4-ff8aa0b1b096"
+repo = "git@github.com:magerton/magertonLocalRegistry.jl.git"
+
+[packages]
