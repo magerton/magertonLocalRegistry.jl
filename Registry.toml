@@ -3,6 +3,7 @@ uuid = "ab6bbf05-e7a6-40d2-89e4-ff8aa0b1b096"
 repo = "git@github.com:magerton/magertonLocalRegistry.jl.git"
 
 [packages]
+45cea28e-a2c2-48b5-bf61-da5c0d9b8d5d = { name = "ForwardDiffSparseSolve", path = "F/ForwardDiffSparseSolve" }
 475e00a1-3164-498a-9549-bcaad118f2b9 = { name = "ShaleDrillingRevisedModel", path = "S/ShaleDrillingRevisedModel" }
 9c72e6b0-c31a-4988-9735-5daee9bc0cf3 = { name = "FastLogSumExp", path = "F/FastLogSumExp" }
 a3f5e1f6-3d3b-4aea-83ba-1271dfe41bed = { name = "BLMAuctionComittment", path = "B/BLMAuctionComittment" }

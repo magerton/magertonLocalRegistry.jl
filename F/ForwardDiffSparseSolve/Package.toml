@@ -1,0 +1,3 @@
+name = "ForwardDiffSparseSolve"
+uuid = "45cea28e-a2c2-48b5-bf61-da5c0d9b8d5d"
+repo = "ssh://git@github.com/magerton/ForwardDiffSparseSolve.jl.git"
