@@ -3,6 +3,7 @@ uuid = "ab6bbf05-e7a6-40d2-89e4-ff8aa0b1b096"
 repo = "git@github.com:magerton/magertonLocalRegistry.jl.git"
 
 [packages]
+1cd7bdc2-5d84-4c1b-a5b4-cd07af7842e8 = { name = "ContsTimeRustModel", path = "C/ContsTimeRustModel" }
 45cea28e-a2c2-48b5-bf61-da5c0d9b8d5d = { name = "ForwardDiffSparseSolve", path = "F/ForwardDiffSparseSolve" }
 475e00a1-3164-498a-9549-bcaad118f2b9 = { name = "ShaleDrillingRevisedModel", path = "S/ShaleDrillingRevisedModel" }
 9c72e6b0-c31a-4988-9735-5daee9bc0cf3 = { name = "FastLogSumExp", path = "F/FastLogSumExp" }
